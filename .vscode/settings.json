@@ -1,0 +1,6 @@
+{
+    "python.linting.pylintArgs": [
+        "--generate-members"
+    ],
+    "python.pythonPath": "/bin/python3", //line to add
+}
