@@ -65,10 +65,10 @@ weapon_speed = 3
 
 #공 만들기 (4개 크기에 대해 따로 처리)
 ball_images = [
-    pygame.image.load(os.path.join(image_path, "balloon1.png")),
-    pygame.image.load(os.path.join(image_path, "balloon2.png")),
-    pygame.image.load(os.path.join(image_path, "balloon3.png")),
-    pygame.image.load(os.path.join(image_path, "balloon4.png"))]
+    pygame.image.load(os.path.join(image_path, "fire1.png")),
+    pygame.image.load(os.path.join(image_path, "fire2.png")),
+    pygame.image.load(os.path.join(image_path, "fire3.png")),
+    pygame.image.load(os.path.join(image_path, "fire4.png"))]
 
 #공 크기에 따른 최초 스피드
 ball_speed_y = [-18, -15, -12, -9] #index 0, 1, 2, 3 에 해당하는 값
