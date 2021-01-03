@@ -1,0 +1,38 @@
+*************************************************
+*Scratch EXE Creator by meowmeow55 (version 1.1)*
+*************************************************
+
+Introduction
+************
+Scratch EXE Creator is yet another way to turn one of your Scratch projects into an EXE, with one new, 
+revolutionary feature: it can put the project back into the EXE after you've saved it! This is helpful with any 
+project where you can save your progress. It's also made completely in batch script (with NSIS to make the EXE).
+
+Installation
+************
+Just copy the Scratch EXE Creator folder from the zip to a location of your choice. It's that SIMPL (hint hint ;) ).
+
+Features
+********
+he ability to save the project's state back into the EXE
+he option to completely control what and how dialogs show up
+he option to specify a custom icon
+nd a simple, text-based interface (with lots of options :P)
+
+Use
+***
+First, copy your project into the Scratch EXE Creator folder and rename it to project.sb. If you want a custom icon,
+move your icon into the Scratch EXE Creator folder and rename it to icon.ico. Then, run CreateScratchEXE.bat, fill
+out all the fields, and press Enter at the conformation prompt if you're satisfied with everything (or type in some 
+garbage, it doesn't care :P). If all goes well, your new EXE will show up in the directory.
+
+If it crashes when you enter in something in the field, you probably used a quotation mark ("). Just re-run the 
+batch file and don't use a quotation mark.
+
+If you're still having trouble, ask for help at the Scratch EXE Creator forum thread on Scratch here:
+http://scratch.mit.edu/forums/viewtopic.php?id=46159
+
+Special thanks goes to nXIII, who helped me with the Scratch image a bit.
+
+Enjoy!
+-meowmeow55 (aka Skirmisher)

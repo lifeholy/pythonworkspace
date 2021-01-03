@@ -1,0 +1,6 @@
+이 프로그램은 meowmeow55가 제작한 scratch exe creator 를 Linerunner가 한글화 하고 purum5548이 EXE변환시의 한글 깨짐 오류를 수정한것임을 밝힙니다.
+
+
+1. exe화 하고싶은 프로젝트의 이름을 project.sb로 바꿔주세요.
+2. 프로그램을 이 폴더에 이동시켜주세요.
+2. bat파일을 실행하여 진행합니다.
