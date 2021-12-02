@@ -14,10 +14,10 @@ pygame.display.set_caption("처음 게임")
 clock = pygame.time.Clock()
 
 #배경 이미지 불러오기
-background = pygame.image.load("D:/pythonworkspace/pygame_basic/background.png")
+background = pygame.image.load("F:/pythonworkspace/pygame_basic/background.png")
 
 #캐릭터 불러오기
-charactor = pygame.image.load("D:/pythonworkspace/pygame_basic/charactor.png")
+charactor = pygame.image.load("F:/pythonworkspace/pygame_basic/charactor.png")
 charactor_size = charactor.get_rect().size  #이미지의 크기를 구해옴
 charactor_width = charactor_size[0]
 charactor_height = charactor_size[1]
@@ -33,7 +33,7 @@ to_y = 0
 charactor_speed = 0.6
 
 # 적캐릭터
-enermy = pygame.image.load("D:/pythonworkspace/pygame_basic/enermy.png")
+enermy = pygame.image.load("F:/pythonworkspace/pygame_basic/enermy.png")
 enermy_size = enermy.get_rect().size  #이미지의 크기를 구해옴
 enermy_width = enermy_size[0]
 enermy_height = enermy_size[1]
