@@ -3,3 +3,4 @@ error check
 hello
 i am here. MX linux. 20201211
 this time. 2020.12.22 21:30 git pull ok.
+now 2021.12.10 git ok
