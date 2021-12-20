@@ -1,6 +1,5 @@
 {
     "python.linting.pylintArgs": [
         "--generate-members"
-    ],
-    "python.pythonPath": "C:\\Program Files\\Python39\\python.exe", //line to add
+    ]
 }
