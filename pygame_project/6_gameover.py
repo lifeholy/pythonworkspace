@@ -3,6 +3,7 @@
 # 3.시간 제한 99초 초과시 게임종료(실패)
 
 import pygame
+#import tensorflow as tf
 #import random
 import os
 #####################################################################
