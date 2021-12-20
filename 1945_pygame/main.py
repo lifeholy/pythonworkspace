@@ -10,7 +10,7 @@ from enemy import *
 def init_pygame():
     pygame.init()
     screen = pygame.display.set_mode((400, 600)) # 600, 800 vs 768, 1024
-    pygame.display.set_caption("1945 Strikers - Remade by TechKidsers, leeminho")
+    pygame.display.set_caption("Minho's 1945 Strikers - Remade by TechKidsers, leeminho")
     return screen
 
 def run():
