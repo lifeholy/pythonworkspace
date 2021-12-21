@@ -7,4 +7,6 @@ temp2 = tf.constant( [6,7,8])
 temp3 = tf.constant( [[6,7], [4,5], [8,9]])
 
 print(temp + temp2)
+print(temp2 * temp3)
+print(temp3 * temp2)
 print(temp3.shape)
